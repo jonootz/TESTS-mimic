@@ -1,6 +1,112 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultBatchTarget Version="1" 
-	Comment="New Batch Target">
-  <Targets>    
-  </Targets>  
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CHM"
+      Type="HTML Help"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DITA"
+      Type="DITA"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DotNet"
+      Type="DotNet Help"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse"
+      Type="Eclipse Help"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="EPUB"
+      Type="EPUB"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="FrameMaker"
+      Type="FrameMaker"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp Air"
+      Type="WebHelp AIR"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp Mobile"
+      Type="WebHelp Mobile"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp Plus"
+      Type="WebHelp Plus"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XHTML Book"
+      Type="XHTML Book"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XPS"
+      Type="XPS"
+      Build="false"
+      LastBuilt=""
+      LastPublished="" />
+  </Targets>
 </CatapultBatchTarget>
