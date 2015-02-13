@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime">hh:mm</Variable>
+  <Variable
+    Name="RegParent"
+    Comment="">parent</Variable>
+  <Variable
+    Name="RegParent"
+    Comment="">child1</Variable>
+  <Variable
+    Name="RegParent"
+    Comment="">child 2</Variable>
+  <Variable
+    Name="DT"
+    Comment=""
+    Type="DateTime" />
+</CatapultVariableSet>
