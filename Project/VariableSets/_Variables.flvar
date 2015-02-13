@@ -21,6 +21,22 @@
     Comment="">child 2</Variable>
   <Variable
     Name="DT"
-    Comment=""
-    Type="DateTime" />
+    Comment="on build"
+    Type="DateTime"
+    LastUpdated="2015-02-13T12:55:26.4170036-08:00">"on build" hh mm</Variable>
+  <Variable
+    Name="DT"
+    Comment="creation"
+    Type="DateTimeFileCreated"
+    LastUpdated="2015-02-13T12:55:28.9942613-08:00">"file creation" hh mm</Variable>
+  <Variable
+    Name="DT"
+    Comment="save"
+    Type="DateTimeFileSaved"
+    LastUpdated="2015-02-13T12:56:04.4758091-08:00">"on save" hh mm</Variable>
+  <Variable
+    Name="DT"
+    Comment="project save"
+    Type="DateTimeProjectSaved"
+    LastUpdated="2015-02-13T12:56:25.1958809-08:00">"on project save" hh mm</Variable>
 </CatapultVariableSet>
